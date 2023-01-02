@@ -3,7 +3,7 @@
 <h3 align="center">I write code to make computers do things</h3>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=dotnet,angular,ts,js,nodejs,mysql,mongodb,visualstudio&coding=cute" />
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,dart,flutter,mysql,mongodb,js,ts,nodejs&coding=cute" />
   </a>
 </p>
 
